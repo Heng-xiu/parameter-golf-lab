@@ -1,5 +1,7 @@
 # Parameter Golf Lab
 
+![Hand-drawn cover showing a tiny language-model lab workflow](docs/assets/cover-parameter-golf-lab.png)
+
 A small, practical PyTorch lab for learning how compact language models are built, trained, measured, compressed, and adapted.
 
 This project is inspired by OpenAI's Parameter Golf challenge and the progressive context-growth / score-first TTT lineage around PR #2014. It is **not** a leaderboard reproduction. The goal is to make the ideas approachable enough for a classroom, workshop, or self-guided weekend project.
