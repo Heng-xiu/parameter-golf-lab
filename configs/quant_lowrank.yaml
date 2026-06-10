@@ -1,0 +1,3 @@
+checkpoint: outputs/baseline/checkpoint.pt
+method: int8-lowrank
+rank: 4

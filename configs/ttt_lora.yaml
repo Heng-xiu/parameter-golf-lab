@@ -1,0 +1,11 @@
+ttt:
+  data_path: data/tiny.txt
+  chunk_len: 64
+  lr: 0.01
+  steps_per_chunk: 1
+  lora_rank: 4
+  lora_alpha: 8.0
+  target_mask: no_qv
+  max_documents: 4
+  seed: 7
+  device: auto
